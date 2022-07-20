@@ -4,7 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.willywonka.model.data.OompaProfile
-import com.willywonka.model.repository.OompaProvider
+import com.willywonka.model.providers.OompaProvider
 import kotlinx.coroutines.launch
 
 class OompaListViewModel : ViewModel() {

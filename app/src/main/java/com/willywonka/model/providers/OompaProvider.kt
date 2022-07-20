@@ -1,4 +1,4 @@
-package com.willywonka.model.repository
+package com.willywonka.model.providers
 
 import com.willywonka.model.data.OompaProfile
 import com.willywonka.model.repository.api.WillyWonkaAPIRetriever
