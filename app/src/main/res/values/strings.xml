@@ -1,0 +1,27 @@
+<resources>
+    <!-- General -->
+    <string name="app_name">Willy Wonka</string>
+    <string name="loading">Loading...</string>
+
+    <!-- Oompa loompa list fragment -->
+    <string name="oompa_list_label">Oompa Loompas</string>
+    <string name="oompa_list_filter">Filter</string>
+
+    <!-- Oompa loompa profile fragment -->
+    <string name="oompa_profile_label">Oompa profile</string>
+    <string name="oompa_profile_sample_text">"Oompa Loompas:\nOompa Loompa doompadee doo\nI've got another puzzle for you\nOompa Loompa doompadah dee\nIf you are wise you'll listen to me\nWhat do you get from a glut of TV?\nA pain in the neck and an IQ of three\nWhy don't you try simply reading a book?\nOr could you just not bear to look?\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no commercials\nOompa Loompa Doompadee Dah\nIf you're like reading you will go far\nYou will live in happiness too\nLike the Oompa\nOompa Loompa doompadee do\nOompa Loompas:\nOompa Loompa doompadee doo\nI've got another puzzle for you\nOompa Loompa doompadah dee\nIf you are wise you'll listen to me\nWhat do you get from a glut of TV?\nA pain in the neck and an IQ of three\nWhy don't you try simply reading a book?\nOr could you just not bear to look?\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no commercials\nOompa Loompa Doompadee Dah\nIf you're like reading you will go far\nYou will live in happiness too\nLike the Oompa\nOompa Loompa doompadee do\nOompa Loompas:\nOompa Loompa doompadee doo\nI've got another puzzle for you\nOompa Loompa doompadah dee\nIf you are wise you'll listen to me\nWhat do you get from a glut of TV?\nA pain in the neck and an IQ of three\nWhy don't you try simply reading a book?\nOr could you just not bear to look?\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no commercials\nOompa Loompa Doompadee Dah\nIf you're like reading you will go far\nYou will live in happiness too\nLike the Oompa\nOompa Loompa doompadee do\nOompa Loompas:\nOompa Loompa doompadee doo\nI've got another puzzle for you\nOompa Loompa doompadah dee\nIf you are wise you'll listen to me\nWhat do you get from a glut of TV?\nA pain in the neck and an IQ of three\nWhy don't you try simply reading a book?\nOr could you just not bear to look?\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no commercials\nOompa Loompa Doompadee Dah\nIf you're like reading you will go far\nYou will live in happiness too\nLike the Oompa\nOompa Loompa doompadee do\nOompa Loompas:\nOompa Loompa doompadee doo\nI've got another puzzle for you\nOompa Loompa doompadah dee\nIf you are wise you'll listen to me\nWhat do you get from a glut of TV?\nA pain in the neck and an IQ of three\nWhy don't you try simply reading a book?\nOr could you just not bear to look?\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no commercials\nOompa Loompa Doompadee Dah\nIf you're like reading you will go far\nYou will live in happiness too\nLike the Oompa\nOompa Loompa doompadee do\nOompa Loompas:\nOompa Loompa doompadee doo\nI've got another puzzle for you\nOompa Loompa doompadah dee\nIf you are wise you'll listen to me\nWhat do you get from a glut of TV?\nA pain in the neck and an IQ of three\nWhy don't you try simply reading a book?\nOr could you just not bear to look?\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no\nYou'll get no commercials\nOompa Loompa Doompadee Dah\nIf you're like reading you will go far\nYou will live in happiness too\nLike the Oompa\nOompa Loompa doompadee do"</string>
+
+    <!-- Messages -->
+    <string name="no_oompas_filtered">No Oompas found for the selected filters</string>
+    <string name="no_oompas">No Oompas found</string>
+
+    <!-- Settings fragment -->
+    <string name="settings_gender">Select oompa loompa gender:</string>
+    <string name="settings_gender_m">Male</string>
+    <string name="settings_gender_f">Female</string>
+    <string name="settings_profession">Enter oompa loompa profession:</string>
+    <string name="settings_dev">Developer</string>
+    <string name="settings_apply">Apply filters</string>
+    <string name="settings_reset">Reset filters</string>
+    <string name="settings_fragment_label">Filter</string>
+</resources>

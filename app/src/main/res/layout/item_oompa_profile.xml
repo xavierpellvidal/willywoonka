@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:clipToPadding="false"
+    android:background="@color/oompa_list_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Xavier Pell Vidal"
+            android:textSize="18sp"
+            android:textColor="@color/oompa_list_title"
+            android:textStyle="normal"/>
+
+        <TextView
+            android:id="@+id/txtEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="xavierpellvidal@gmail.com"
+            android:textSize="11sp"
+            android:textColor="@color/grey600"
+            style="@style/TextAppearance.AppCompat.SearchResult.Subtitle"
+            android:layout_marginStart="10dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:clipToPadding="false"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:padding="4dp">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/profileImage"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:elevation="6dp"
+            app:cardCornerRadius="305dp">
+
+            <ImageView
+                android:id="@+id/imgProfile"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:src="@drawable/willywonka"
+                android:scaleType="centerCrop"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true">
+            </ImageView>
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginEnd="14dp"
+                android:layout_marginStart="14dp"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:src="@drawable/ic_engineering_black"
+                    app:tint="@color/grey600">
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/txtWork"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:text="Developer"
+                    android:textStyle="italic"
+                    android:ellipsize="end"
+                    android:textSize="14sp"
+                    android:textColor="@color/grey600"
+                    style="@style/TextAppearance.AppCompat.SearchResult.Subtitle" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginStart="14dp"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:id="@+id/imgGender"
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:src="@drawable/ic_female_black"
+                    app:tint="@color/grey600">
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/txtGender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:text="Female"
+                    android:textStyle="italic"
+                    android:ellipsize="end"
+                    android:textSize="14sp"
+                    android:textColor="@color/grey600"
+                    style="@style/TextAppearance.AppCompat.SearchResult.Subtitle" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="5dp"
+                android:layout_marginEnd="14dp"
+                android:layout_marginStart="14dp"
+                android:gravity="center_vertical">
+
+                <ImageView
+                    android:layout_width="14dp"
+                    android:layout_height="14dp"
+                    android:src="@drawable/ic_place_black"
+                    app:tint="@color/grey600">
+                </ImageView>
+
+                <TextView
+                    android:id="@+id/txtLocation"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:text="Tarragona, Catalunya"
+                    android:textStyle="italic"
+                    android:ellipsize="end"
+                    android:textSize="14sp"
+                    android:textColor="@color/grey600"
+                    style="@style/TextAppearance.AppCompat.SearchResult.Subtitle" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

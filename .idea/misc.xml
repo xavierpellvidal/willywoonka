@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/OompaLoompa/app/src/main/res/layout/activity_main.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/OompaLoompa/app/src/main/res/layout/content_main.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/OompaLoompa/app/src/main/res/layout/fragment_first.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/OompaLoompa/app/src/main/res/layout/fragment_second.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/OompaLoompa/app/src/main/res/menu/menu_main.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/drawable/ic_engineering_black.xml" value="0.264" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/drawable/ic_female_black.xml" value="0.316" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4965" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/drawable/ic_male_black.xml" value="0.5365" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/drawable/ic_manage_search.xml" value="0.264" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/drawable/ic_place_black.xml" value="0.5365" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/activity_launch.xml" value="0.3020833333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/activity_main.xml" value="0.3020833333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/content_main.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/fragment_loading.xml" value="0.409375" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/fragment_oompa.xml" value="0.3584672435105068" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/fragment_oompa_list.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/fragment_oompa_profile.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/fragment_oompaloompa.xml" value="0.409375" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/fragment_settings.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/item_loading.xml" value="0.31302083333333336" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/item_oompa_loading.xml" value="0.3020833333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/item_oompa_profile.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/layout/item_service_type.xml" value="0.409375" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/menu/menu_main.xml" value="0.5427083333333333" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.4965" />
+        <entry key="..\:/Users/Xavier/AndroidStudioProjects/WillyWonka/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.4965" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

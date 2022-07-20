@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+    <color name="grey600">#757575</color>
+    <color name="oompa_list_background">#D3D3D3</color>
+    <color name="oompa_list_title">#FF000000</color>
+    <color name="appBar_color">#F6EFFF</color>
+</resources>

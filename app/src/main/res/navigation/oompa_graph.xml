@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/OomplaLoompaFragment">
+
+    <fragment
+        android:id="@+id/OomplaLoompaFragment"
+        android:name="com.willywonka.usecases.main.OompasListFragment"
+        android:label="@string/oompa_list_label"
+        tools:layout="@layout/fragment_oompa_list">
+
+        <action
+            android:id="@+id/action_OomplaLoompaFragment_to_SettingsFragment"
+            app:destination="@id/SettingsFragment"
+            app:enterAnim="@anim/slide_enter_right_left"
+            app:exitAnim="@anim/slide_exit_right_left"
+            app:popEnterAnim="@anim/slide_enter_left_right"
+            app:popExitAnim="@anim/slide_exit_left_right"/>
+
+        <action
+            android:id="@+id/action_OomplaLoompaFragment_to_OompaProfileFragment"
+            app:destination="@id/OompaProfileFragment"
+            app:enterAnim="@anim/slide_enter_right_left"
+            app:exitAnim="@anim/slide_exit_right_left"
+            app:popEnterAnim="@anim/slide_enter_left_right"
+            app:popExitAnim="@anim/slide_exit_left_right"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/SettingsFragment"
+        android:name="com.willywonka.usecases.main.SettingsFragment"
+        android:label="@string/settings_fragment_label"
+        tools:layout="@layout/fragment_settings">
+    </fragment>
+
+    <fragment
+        android:id="@+id/OompaProfileFragment"
+        android:name="com.willywonka.usecases.main.OompaProfileFragment"
+        android:label="@string/oompa_profile_label"
+        tools:layout="@layout/fragment_oompa_profile">
+
+        <argument
+            android:name="oompaID"
+            app:argType="integer"
+            android:defaultValue="0" />
+    </fragment>
+</navigation>
